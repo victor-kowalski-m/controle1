@@ -7,4 +7,4 @@ It consists in the modelling and design of a PID controller for the Ball on Whee
 ![Pictures/Real_Esquema.png](Pictures/Real_Esquema.png)
 
 
-Remark: the text content of the notebook was automatically translated to English, given that it was originally written in Portuguese. 
+Remark: the text content of the notebook was automatically translated to English, given that it was originally written in Portuguese. Therefore, some translation errors are expected.
