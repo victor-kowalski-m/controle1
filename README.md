@@ -5,4 +5,4 @@ The notebook [ball_on_wheel.ipynb](ball_on_wheel.ipynb) presents the final proje
 It consists in the modelling and design of a PID controller for the Ball on Wheel problem, shown bellow. Additionally, an introduction and an extensive analysis of the obtained
 results is provided.
 
-[pic](Pictures/Real_Esquema.png)
+![Pictures/Real_Esquema.png](Pictures/Real_Esquema.png)
